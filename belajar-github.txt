@@ -1,0 +1,3 @@
+Rencana Belajar Git dan Github
+- Registrasi akun github
+- Membuat file baru di github
